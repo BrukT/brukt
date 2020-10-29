@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Bruk Gurmesa, a Computer Engineering Graduate(M.Sc.) from [Unipi](https://www.unipi.it/index.php/english) looking to jumpstart my carrier in Software Engineering. 
-- 🔭 I’m currently working on KubeEdge extension
+### Hi there 👋 I'm Bruk Gurmesa, 
+a Computer Engineering Graduate(M.Sc.) from [Unipi](https://www.unipi.it/index.php/english) looking to jumpstart my carrier in Software Engineering. 
+- 🔭 I’m currently working on [KubeEdge](https://kubeedge.io/en/) integration with CoAP based sensors
 - 🌱 I’m currently learning Jkyll
 <!--
 **BrukT/brukt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
