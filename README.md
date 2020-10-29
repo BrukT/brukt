@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Bruk Gurmesa, a Computer Engineering Graduate(M.Sc.) from [Unipi](https://www.unipi.it/index.php/english) looking to jumpstart my carrier in Software Engineering. 
 - 🔭 I’m currently working on KubeEdge extension
 - 🌱 I’m currently learning Jkyll
 <!--
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Languages and Tools:
+
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Golang" width="26px" src="https://stickershop.line-scdn.net/stickershop/v1/product/1349132/LINEStorePC/main.png;compress=true" />
