@@ -1,5 +1,5 @@
 ### Hi 👋 there, I'm Bruk Gurmesa, 
-a Computer Engineering Graduate(M.Sc.) from [Unipi](https://www.unipi.it/index.php/english) looking to jumpstart my carrier in Software Engineering. 
+a Computer Engineering Graduate(M.Sc.) from [Unipi](https://www.unipi.it/index.php/english)  
 - 🔭 I’m currently working on [KubeEdge](https://kubeedge.io/en/) integration with CoAP based sensors
 - 🌱 I’m currently learning Jkyll
 <!--
