@@ -1,7 +1,7 @@
 ### Hi 👋 there, I'm Bruk Gurmesa, 
 a Computer Engineering Graduate(M.Sc.) from [Unipi](https://www.unipi.it/index.php/english)  
-- 🔭 I’m currently working on [KubeEdge](https://kubeedge.io/en/) integration with CoAP based sensors
-- 🌱 I’m currently learning Spring
+- 🔭 I’m currently working @LEVI's as a Data Engineer
+- 🌱 I’m practicing for aws certified cloud develper associate exam on part time. 
 <!--
 **BrukT/brukt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
