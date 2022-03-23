@@ -1,7 +1,10 @@
 ### Hi 👋 there, I'm Bruk Gurmesa, 
 a Computer Engineering Graduate(M.Sc.) from [Unipi](https://www.unipi.it/index.php/english)  
 - 🔭 I’m currently working @LEVI's as a Data Engineer
-- 🌱 I’m practicing for aws certified cloud develper associate exam on part time. 
+- 🌱 I’m practicing for GCP certified Data Engineering Professional exam on part time. 
+
+Qualifications I have
+- completed my aws certified developer associate exam this spring
 <!--
 **BrukT/brukt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
