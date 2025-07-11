@@ -1,7 +1,7 @@
 ### Hi 👋 there, I'm Bruk Gurmesa, 
 a Computer Engineering Graduate(M.Sc.) from [Unipi](https://www.unipi.it/index.php/english)  
 - 🔭 I’m currently working @ Ford Motors Company as a Data Engineer
-- 🌱 I’m practicing for GCP certified Data Engineering Professional exam on part time. 
+- 🌱 I’m practicing for GCP certified Machine Learning Engineer Professional certification exam on part time. 
 
 Qualifications I have
 - MSc in Computer Engineering
