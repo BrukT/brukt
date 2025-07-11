@@ -1,10 +1,11 @@
 ### Hi 👋 there, I'm Bruk Gurmesa, 
 a Computer Engineering Graduate(M.Sc.) from [Unipi](https://www.unipi.it/index.php/english)  
-- 🔭 I’m currently working @LEVI's as a Data Engineer
+- 🔭 I’m currently working @ Ford Motors Company as a Data Engineer
 - 🌱 I’m practicing for GCP certified Data Engineering Professional exam on part time. 
 
 Qualifications I have
-- completed my aws certified developer associate exam this spring
+- MSc in Computer Engineering
+- completed Machine Learning, Data engineer, and Associate Developer certifications
 <!--
 **BrukT/brukt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
